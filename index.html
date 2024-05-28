@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/quasar@2.3.4/dist/quasar.prod.css" rel="stylesheet" type="text/css">
+    <!-- vue css -->
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise,fetch"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.20.0/cytoscape.min.js"></script> -->
+  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+  <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+  <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+  <script src="https://unpkg.com/cytoscape-layout-utilities/cytoscape-layout-utilities.js"></script>
+  <!--  -->
+  <script src="./move.js"></script>
+</head>
+<body>
+  <body>
+    <!-- <h1>cose demo</h1> -->
+    <div id="q-app">
+      <div class="row">
+        <div class="col">
+          <div id="cy" style="width:90%;height: 90%;"></div>
+        </div>
+        <div class="selectSideBar" style="width:300px">
+          <div class="q-py-md q-pr-sm">
+            <q-card dark bordered class="bg-grey-9 my-card">
+              <q-card-section>
+                <div class="text-h6">Select information</div>
+                <!-- <div class="text-subtitle2">by John Doe</div>
+                <div class="text-subtitle2">by John Doe</div> -->
+                <q-select outlined v-model="selectedValue" 
+                bg-color="white" class="q-mt-md" 
+                :options="selectOption" label="Select" ></q-select>
+              </q-card-section>
+              <div class="row q-mb-sm">
+                <div class="text-h6 text-info col-10 q-pl-md">{{ selectedValue }}</div>
+                <q-btn flat dense color="grey" class="col-2"
+                :icon="extendTextInfo ? 'keyboard_arrow_up' : 'keyboard_arrow_down'"
+                @click="extendTextInfo = !extendTextInfo"
+                ></q-btn>
+              </div>
+              <q-slide-transition>
+                <div v-show="extendTextInfo">
+                <q-separator dark inset></q-separator>
+                <q-card-section class="sideBarText">
+                  <div v-for="(item,index) in allInfoSort" :key="index" class="q-mt-sm row"
+                  >
+                    <div class="col-10 row">
+                      <span class="selectCub" 
+                      :style="cubBgStyle[index]"></span>
+                      <span >{{item[0]}}</span>
+                    </div>
+                    <div class="col-2">{{item[1]}}</div>
+                  </div>
+                </q-card-section>
+              </div>
+              </q-slide-transition>
+              <q-card-section>
+                <div class="text-h6">Select group</div>
+                <!-- <div class="text-subtitle2">by John Doe</div>
+                <div class="text-subtitle2">by John Doe</div> -->
+                <q-select outlined v-model="groupSelectedVal" 
+                bg-color="white" class="q-mt-md"
+                :options="groupSelectOption" label="Select" >
+                </q-select>
+              </q-card-section class="sideBarText">
+              
+                <div v-if="groupSelectedVal !=='None'">
+                  <div class="row q-mb-sm">
+                    <div class="text-h6 text-lime col-10 q-pl-md">{{ groupSelectedVal }}</div>
+                    
+                  </div>
+                  <q-separator dark inset></q-separator>
+                  <q-card-section>
+                  <div v-for="(item,index) in groupSort" :key="index" class="q-mt-sm row">
+                    <div class="col-12 row ">
+                      <span class="selectCub" 
+                        :style="{background:groupStyleBg[index]}">
+                      </span>
+                      <span >{{item}}</span>
+                    </div> 
+                  </div>
+                </div>
+              </q-card-section>
+            </q-card>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <!-- Load application code at the end to ensure DOM is loaded -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quasar@2.3.4/dist/quasar.umd.prod.js"></script>
+    <script src="./code.js"></script>
+  </body>
+</body>
+</html>

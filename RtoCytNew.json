@@ -1,0 +1,7438 @@
+{
+ "data": {
+ "name": "Co-occurrence_network" 
+},
+"elements": {
+ "nodes": [
+ {
+ "data": {
+ "type": false,
+"name": "ASV0001",
+"id": "ASV0001",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Phyllobacterium",
+"Species": "Phyllobacterium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+
+"size": 14.96503 
+},
+"position": {
+ "x": 501.2226,
+"y": 1258.464 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0002",
+"id": "ASV0002",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_dispar",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 9.778608 
+},
+"position": {
+ "x": 449.4607,
+"y": 1120.054 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0003",
+"id": "ASV0003",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_2",
+"size": 6.331473 
+},
+"position": {
+ "x": 530.5097,
+"y": 1649.197 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0004",
+"id": "ASV0004",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_melaninogenica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 5.651896 
+},
+"position": {
+ "x": 646.0519,
+"y": 1422.164 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0005",
+"id": "ASV0005",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_histicola",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 2.413003 
+},
+"position": {
+ "x": 1788.144,
+"y": 2437.849 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0007",
+"id": "ASV0007",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 2.426553 
+},
+"position": {
+ "x":  661.716,
+"y": 871.1478 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0008",
+"id": "ASV0008",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_atypica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.654646 
+},
+"position": {
+ "x": 855.9393,
+"y": 1111.222 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0009",
+"id": "ASV0009",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Mycoplasmatales",
+"Family": "Mycoplasmataceae",
+"Genus": "Mycoplasma",
+"Species": "Mycoplasma_pneumoniae",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 2.451264 
+},
+"position": {
+ "x": 946.4597,
+"y": 87.56931 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0010",
+"id": "ASV0010",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Carnobacteriaceae",
+"Genus": "Granulicatella",
+"Species": "Granulicatella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.558667 
+},
+"position": {
+ "x": 539.7598,
+"y": 1426.819 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0012",
+"id": "ASV0012",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_periodonticum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 1.508203 
+},
+"position": {
+ "x": 1149.621,
+"y":  1272.07 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0013",
+"id": "ASV0013",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_atypica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.287583 
+},
+"position": {
+ "x": 465.0001,
+"y": 1192.738 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0014",
+"id": "ASV0014",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size":  1.13619 
+},
+"position": {
+ "x": 947.9933,
+"y": 1423.565 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0015",
+"id": "ASV0015",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Gemellaceae",
+"Genus": "Gemella",
+"Species": "Gemella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.9145717 
+},
+"position": {
+ "x": 1273.545,
+"y": 1615.177 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0017",
+"id": "ASV0017",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 1.045727 
+},
+"position": {
+ "x": 1665.436,
+"y": 1157.343 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0018",
+"id": "ASV0018",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_salivae",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.8426966 
+},
+"position": {
+ "x": 1241.427,
+"y":  1023.33 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0020",
+"id": "ASV0020",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.8909897 
+},
+"position": {
+ "x": 1483.596,
+"y": 1331.823 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0023",
+"id": "ASV0023",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Lachnoanaerobaculum",
+"Species": "Lachnoanaerobaculum_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.8443035 
+},
+"position": {
+ "x": 1081.205,
+"y": 1318.447 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0024",
+"id": "ASV0024",
+"Phylum": "Actinobacteriota",
+"Class": "Coriobacteriia",
+"Order": "Coriobacteriales",
+"Family": "Atopobiaceae",
+"Genus": "Atopobium",
+"Species": "Atopobium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.7918847 
+},
+"position": {
+ "x": 653.8959,
+"y": 974.2534 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0025",
+"id": "ASV0025",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.6102211 
+},
+"position": {
+ "x": 976.2893,
+"y": 1715.679 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0028",
+"id": "ASV0028",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.5946735 
+},
+"position": {
+ "x": 212.3678,
+"y":  1268.35 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0030",
+"id": "ASV0030",
+"Phylum": "Campilobacterota",
+"Class": "Campylobacteria",
+"Order": "Campylobacterales",
+"Family": "Campylobacteraceae",
+"Genus": "Campylobacter",
+"Species": "Campylobacter_concisus",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.6651588 
+},
+"position": {
+ "x": 648.8695,
+"y": 1151.154 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0031",
+"id": "ASV0031",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.5650984 
+},
+"position": {
+ "x": 1012.761,
+"y": 1430.646 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0033",
+"id": "ASV0033",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Peptostreptococcales-Tissierellales",
+"Family": "Peptostreptococcaceae",
+"Genus": "Peptostreptococcus",
+"Species": "Peptostreptococcus_stomatis",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.5405175 
+},
+"position": {
+ "x": 1049.324,
+"y": 1663.833 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0034",
+"id": "ASV0034",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Corynebacteriales",
+"Family": "Corynebacteriaceae",
+"Genus": "Corynebacterium",
+"Species": "Corynebacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.6123926 
+},
+"position": {
+ "x": 1268.658,
+"y": 592.1397 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0036",
+"id": "ASV0036",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.4381119 
+},
+"position": {
+ "x": 1605.091,
+"y":  1578.54 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0039",
+"id": "ASV0039",
+"Phylum": "Patescibacteria",
+"Class": "Saccharimonadia",
+"Order": "Saccharimonadales",
+"Family": "Saccharimonadaceae",
+"Genus": "TM7x",
+"Species": "TM7x_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.4356365 
+},
+"position": {
+ "x": 1369.626,
+"y": 1237.527 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0043",
+"id": "ASV0043",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.3564654 
+},
+"position": {
+ "x": 1131.858,
+"y": 2073.523 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0047",
+"id": "ASV0047",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3969846 
+},
+"position": {
+ "x": 2407.941,
+"y": 642.2607 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0048",
+"id": "ASV0048",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_pneumoniae",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.4140957 
+},
+"position": {
+ "x": 745.5195,
+"y": 377.7898 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0049",
+"id": "ASV0049",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Flavobacteriaceae",
+"Genus": "Capnocytophaga",
+"Species": "Capnocytophaga_leadbetteri",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3452607 
+},
+"position": {
+ "x": 2460.473,
+"y": 445.2215 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0051",
+"id": "ASV0051",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Flavobacteriaceae",
+"Genus": "Capnocytophaga",
+"Species": "Capnocytophaga_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3003116 
+},
+"position": {
+ "x": 2394.025,
+"y": 931.9477 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0053",
+"id": "ASV0053",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3311897 
+},
+"position": {
+ "x": 2127.665,
+"y": 2274.142 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0058",
+"id": "ASV0058",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Stomatobaculum",
+"Species": "Stomatobaculum_longum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.3017448 
+},
+"position": {
+ "x": 1264.215,
+"y": 1491.473 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0059",
+"id": "ASV0059",
+"Phylum": "Patescibacteria",
+"Class": "Saccharimonadia",
+"Order": "Saccharimonadales",
+"Family": "Saccharimonadaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.4404571 
+},
+"position": {
+ "x": 331.3846,
+"y": 2115.669 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0063",
+"id": "ASV0063",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Moraxellaceae",
+"Genus": "Acinetobacter",
+"Species": "Acinetobacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.4025436 
+},
+"position": {
+ "x": 844.1031,
+"y": 525.7975 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0064",
+"id": "ASV0064",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Moraxellaceae",
+"Genus": "Acinetobacter",
+"Species": "Acinetobacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.3494733 
+},
+"position": {
+ "x": 881.4258,
+"y": 629.3193 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0066",
+"id": "ASV0066",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_sinus",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2573169 
+},
+"position": {
+ "x": 832.4938,
+"y": 1471.516 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0067",
+"id": "ASV0067",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Burkholderiales",
+"Family": "Neisseriaceae",
+"Genus": "Neisseria",
+"Species": "Neisseria_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2674359 
+},
+"position": {
+ "x": 1249.225,
+"y": 1983.935 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0068",
+"id": "ASV0068",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Lachnoanaerobaculum",
+"Species": "Lachnoanaerobaculum_cf.",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2555798 
+},
+"position": {
+ "x": 908.7017,
+"y": 1800.698 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0069",
+"id": "ASV0069",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Rothia",
+"Species": "Rothia_mucilaginosa",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size":   0.2799 
+},
+"position": {
+ "x": 2359.322,
+"y":  1217.91 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0076",
+"id": "ASV0076",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.2189257 
+},
+"position": {
+ "x": 2364.744,
+"y": 1631.944 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0077",
+"id": "ASV0077",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Gemellaceae",
+"Genus": "Gemella",
+"Species": "Gemella_sanguinis",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2088067 
+},
+"position": {
+ "x": 991.4201,
+"y": 1514.055 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0088",
+"id": "ASV0088",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Erysipelotrichales",
+"Family": "Erysipelotrichaceae",
+"Genus": "Solobacterium",
+"Species": "Solobacterium_moorei",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1788841 
+},
+"position": {
+ "x": 959.7863,
+"y": 1117.034 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0089",
+"id": "ASV0089",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Devosiaceae",
+"Genus": "Pelagibacterium",
+"Species": "Pelagibacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.2510631
+
+},
+"position": {
+ "x": 1055.436,
+"y": 381.3924 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0091",
+"id": "ASV0091",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1734121 
+},
+"position": {
+ "x": 1695.563,
+"y": 616.5234 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0094",
+"id": "ASV0094",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1269864 
+},
+"position": {
+ "x": 2682.532,
+"y":  1346.87 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0095",
+"id": "ASV0095",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1467032 
+},
+"position": {
+ "x": 1735.898,
+"y": 945.3771 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0102",
+"id": "ASV0102",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.1462255 
+},
+"position": {
+ "x": 431.7801,
+"y": 888.7252 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0103",
+"id": "ASV0103",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_parvum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1858328 
+},
+"position": {
+ "x": 1324.575,
+"y": 1456.213 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0108",
+"id": "ASV0108",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Chelativorans",
+"Species": "Chelativorans_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.1897414 
+},
+"position": {
+ "x": 1021.561,
+"y": 380.5044 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0109",
+"id": "ASV0109",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_micronuciformis",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1176058 
+},
+"position": {
+ "x": 2198.544,
+"y": 881.0371 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0112",
+"id": "ASV0112",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1008856 
+},
+"position": {
+ "x": 2654.122,
+"y": 1084.551 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0113",
+"id": "ASV0113",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1072262 
+},
+"position": {
+ "x": 2082.673,
+"y": 752.6589 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0127",
+"id": "ASV0127",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.08507744 
+},
+"position": {
+ "x": 1893.657,
+"y": 870.1635 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0128",
+"id": "ASV0128",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0881609 
+},
+"position": {
+ "x": 2543.967,
+"y": 1550.428 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0134",
+"id": "ASV0134",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.09272095 
+},
+"position": {
+ "x": 2233.666,
+"y": 168.4548 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0137",
+"id": "ASV0137",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Aliihoeflea",
+"Species": "Aliihoeflea_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.1114823 
+},
+"position": {
+ "x": 1100.031,
+"y":  178.866 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0140",
+"id": "ASV0140",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_parainfluenzae",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.09041921 
+},
+"position": {
+ "x": 1731.768,
+"y":  1974.93 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0150",
+"id": "ASV0150",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Enterobacterales",
+"Family": "Enterobacteriaceae",
+"Genus": "Escherichia-Shigella",
+"Species": "Escherichia-Shigella_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.1041862 
+},
+"position": {
+ "x": 874.6379,
+"y": 284.8884 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0154",
+"id": "ASV0154",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Johnsonella",
+"Species": "Johnsonella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05745659 
+},
+"position": {
+ "x": 1817.842,
+"y": 1257.317 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0160",
+"id": "ASV0160",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.05875946 
+},
+"position": {
+ "x": 2222.688,
+"y": 2037.189 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0171",
+"id": "ASV0171",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05719601 
+},
+"position": {
+ "x": 1934.638,
+"y": 1482.314 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0172",
+"id": "ASV0172",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Caulobacterales",
+"Family": "Hyphomonadaceae",
+"Genus": "Oceanicaulis",
+"Species": "Oceanicaulis_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.08885577 
+},
+"position": {
+ "x": 1119.161,
+"y": 365.6895 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0217",
+"id": "ASV0217",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_wadei",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.04976965 
+},
+"position": {
+ "x": 1385.808,
+"y": 2384.299 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0227",
+"id": "ASV0227",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.03912954 
+},
+"position": {
+ "x": 962.5189,
+"y": 2330.578 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0232",
+"id": "ASV0232",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Oceanospirillales",
+"Family": "Halomonadaceae",
+"Genus": "Halomonas",
+"Species": "Halomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.04499246 
+},
+"position": {
+ "x":  1093.42,
+"y":  234.866 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0238",
+"id": "ASV0238",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.03422206 
+},
+"position": {
+ "x":  1819.35,
+"y": -22.4284 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0285",
+"id": "ASV0285",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02505854 
+},
+"position": {
+ "x": 1003.484,
+"y": 514.9737 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0300",
+"id": "ASV0300",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02210537 
+},
+"position": {
+ "x": 730.7948,
+"y": 2270.981 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0304",
+"id": "ASV0304",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02709971 
+},
+"position": {
+ "x": 880.2275,
+"y": 584.8507 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0323",
+"id": "ASV0323",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Lactobacillaceae",
+"Genus": "Lactobacillus",
+"Species": "Lactobacillus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.03387463 
+},
+"position": {
+ "x": 748.8376,
+"y": 489.3747 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0344",
+"id": "ASV0344",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02445054 
+},
+"position": {
+ "x": 729.7436,
+"y": 556.1523 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0378",
+"id": "ASV0378",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Staphylococcaceae",
+"Genus": "Staphylococcus",
+"Species": "Staphylococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02088936 
+},
+"position": {
+ "x": 1362.442,
+"y": 340.1108 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0387",
+"id": "ASV0387",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Xanthomonadales",
+"Family": "Xanthomonadaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01832704 
+},
+"position": {
+ "x": 1097.908,
+"y": 280.5759 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0401",
+"id": "ASV0401",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01420129 
+},
+"position": {
+ "x": 2516.572,
+"y":  1794.62 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0431",
+"id": "ASV0431",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Pseudomonadaceae",
+"Genus": "Pseudomonas",
+"Species": "Pseudomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01667674 
+},
+"position": {
+ "x": 1130.239,
+"y":  700.201 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0493",
+"id": "ASV0493",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.008685803 
+},
+"position": {
+ "x": 1702.245,
+"y": 2244.603 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0062",
+"id": "ASV0062",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Phyllobacterium",
+"Species": "Phyllobacterium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+
+"size": 0.2187085 
+},
+"position": {
+ "x": 348.8918,
+"y": 1325.798 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0152",
+"id": "ASV0152",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Actinomycetales",
+"Family": "Actinomycetaceae",
+"Genus": "Actinomyces",
+"Species": "Actinomyces_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.06614239 
+},
+"position": {
+ "x": 2008.023,
+"y": 2054.459 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0032",
+"id": "ASV0032",
+"Phylum": "Actinobacteriota",
+"Class": "Coriobacteriia",
+"Order": "Coriobacteriales",
+"Family": "Atopobiaceae",
+"Genus": "Atopobium",
+"Species": "Atopobium_parvulum",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.5022566 
+},
+"position": {
+ "x": 190.5718,
+"y": 870.2255 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0173",
+"id": "ASV0173",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Catonella",
+"Species": "Catonella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.05476399 
+},
+"position": {
+ "x": 1156.474,
+"y": 1495.816 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0179",
+"id": "ASV0179",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.0516371 
+},
+"position": {
+ "x": 1269.283,
+"y": 788.4903 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0368",
+"id": "ASV0368",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.01658988 
+},
+"position": {
+ "x": 277.5433,
+"y": 941.8109 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0239",
+"id": "ASV0239",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.03587237 
+},
+"position": {
+ "x": 1972.826,
+"y": 1244.463 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0258",
+"id": "ASV0258",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Clostridia UCG-014",
+"Family": "unidentified",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.03721867 
+},
+"position": {
+ "x": 1646.904,
+"y": 1447.275 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0125",
+"id": "ASV0125",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Actinomycetales",
+"Family": "Actinomycetaceae",
+"Genus": "Actinomyces",
+"Species": "Actinomyces_lingnae",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.107704 
+},
+"position": {
+ "x": 678.8356,
+"y": 1621.028 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0041",
+"id": "ASV0041",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_rogosae",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.3307554 
+},
+"position": {
+ "x": 632.1526,
+"y": 1931.242 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0037",
+"id": "ASV0037",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_pasteri",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.4577853 
+},
+"position": {
+ "x": 148.6264,
+"y": 1618.464 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0153",
+"id": "ASV0153",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_asaccharolyticum",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.07009443 
+},
+"position": {
+ "x": 1330.058,
+"y": 1725.316 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0070",
+"id": "ASV0070",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Aerococcaceae",
+"Genus": "Abiotrophia",
+"Species": "Abiotrophia_defectiva",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.2341258 
+},
+"position": {
+ "x": 2547.175,
+"y": 593.5168 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0348",
+"id": "ASV0348",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01168241 
+},
+"position": {
+ "x": 1502.266,
+"y": 507.8978 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0606",
+"id": "ASV0606",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Pseudomonadaceae",
+"Genus": "Pseudomonas",
+"Species": "Pseudomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.008208084 
+},
+"position": {
+ "x": 1276.379,
+"y": 492.0772 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0130",
+"id": "ASV0130",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Tannerellaceae",
+"Genus": "Tannerella",
+"Species": "Tannerella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.08690146 
+},
+"position": {
+ "x": 2200.906,
+"y": 1743.798 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0376",
+"id": "ASV0376",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01250756 
+},
+"position": {
+ "x": 1321.751,
+"y": 2534.132 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0157",
+"id": "ASV0157",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.06414466 
+},
+"position": {
+ "x": 549.2508,
+"y": 2173.748 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0500",
+"id": "ASV0500",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.009206951 
+},
+"position": {
+ "x": 863.7355,
+"y": 478.6224 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0634",
+"id": "ASV0634",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Erysipelotrichales",
+"Family": "Erysipelotrichaceae",
+"Genus": "Turicibacter",
+"Species": "Turicibacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.006297207 
+},
+"position": {
+ "x": 1399.145,
+"y": 381.7711 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0649",
+"id": "ASV0649",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Xanthomonadales",
+"Family": "Xanthomonadaceae",
+"Genus": "Stenotrophomonas",
+"Species": "Stenotrophomonas_maltophilia",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.00794751 
+},
+"position": {
+ "x": 742.3781,
+"y": 322.0829 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0078",
+"id": "ASV0078",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_nanceiensis",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2212274 
+},
+"position": {
+ "x": 731.6161,
+"y": 1853.709 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0118",
+"id": "ASV0118",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_periodonticum",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1145657 
+},
+"position": {
+ "x": 1896.474,
+"y": 2310.074 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0248",
+"id": "ASV0248",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_parvula",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0305306 
+},
+"position": {
+ "x": 2343.082,
+"y": 1490.631 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0584",
+"id": "ASV0584",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Nesterenkonia",
+"Species": "Nesterenkonia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.007209217 
+},
+"position": {
+ "x": 890.4237,
+"y": 129.2127 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0760",
+"id": "ASV0760",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Weeksellaceae",
+"Genus": "Cloacibacterium",
+"Species": "Cloacibacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.005385198 
+},
+"position": {
+ "x": 803.3707,
+"y": -6.732964 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0554",
+"id": "ASV0554",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.006080062 
+},
+"position": {
+ "x": 2624.431,
+"y": 836.6655 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0838",
+"id": "ASV0838",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Nesterenkonia",
+"Species": "Nesterenkonia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.003691466 
+},
+"position": {
+ "x": 1033.582,
+"y": -49.44684 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0133",
+"id": "ASV0133",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_micronuciformis",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.08129912 
+},
+"position": {
+ "x":  2048.44,
+"y": 479.1044 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0169",
+"id": "ASV0169",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.04516618 
+},
+"position": {
+ "x": 2290.729,
+"y": 493.4591 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0131",
+"id": "ASV0131",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.08542487 
+},
+"position": {
+ "x": 1123.142,
+"y": 2406.771 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0189",
+"id": "ASV0189",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05654458 
+},
+"position": {
+ "x":  1474.56,
+"y": 2237.077 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0273",
+"id": "ASV0273",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.02670884 
+},
+"position": {
+ "x": 2049.133,
+"y":   1129.4 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0308",
+"id": "ASV0308",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02058535 
+},
+"position": {
+ "x": 2111.545,
+"y": 294.5103 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0346",
+"id": "ASV0346",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.01567787 
+},
+"position": {
+ "x": 2003.362,
+"y": 1756.424 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0607",
+"id": "ASV0607",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Pseudonocardiales",
+"Family": "Pseudonocardiaceae",
+"Genus": "Saccharopolyspora",
+"Species": "Saccharopolyspora_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.008077797 
+},
+"position": {
+ "x": 1154.329,
+"y": 5.560938 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0334",
+"id": "ASV0334",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_wadei",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01850076 
+},
+"position": {
+ "x": 256.1503,
+"y": 1958.128 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0482",
+"id": "ASV0482",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.009901816 
+},
+"position": {
+ "x": 819.4132,
+"y": 2433.899 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0267",
+"id": "ASV0267",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Peptostreptococcales-Tissierellales",
+"Family": "Parvimonas",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02657856 
+},
+"position": {
+ "x": 2384.666,
+"y": 1995.656 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0674",
+"id": "ASV0674",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Oscillospirales",
+"Family": "Ruminococcaceae",
+"Genus": "Ruminococcus",
+"Species": "Ruminococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.007860652 
+},
+"position": {
+ "x": 1458.449,
+"y": 427.5901 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV1014",
+"id": "ASV1014",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Enterobacterales",
+"Family": "Yersiniaceae",
+"Genus": "Serratia",
+"Species": "Serratia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.00308346 
+},
+"position": {
+ "x": 177.7717,
+"y": 579.9419 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0413",
+"id": "ASV0413",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0124207 
+},
+"position": {
+ "x": 2517.409,
+"y": 1292.825 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0709",
+"id": "ASV0709",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Bacteroidaceae",
+"Genus": "Bacteroides",
+"Species": "Bacteroides_coprocola",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.003865182 
+},
+"position": {
+ "x": 1925.745,
+"y": 183.4084 
+} 
+},
+{
+ "data": {
+ "type": false,
+"name": "ASV0736",
+"id": "ASV0736",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Bacteroidaceae",
+"Genus": "Bacteroides",
+"Species": "Bacteroides_plebeius",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.003865182 
+},
+"position": {
+ "x": 2077.843,
+"y": 67.38396 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0001",
+"id": "ASV0001",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Phyllobacterium",
+"Species": "Phyllobacterium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+
+"size": 14.96503 
+},
+"position": {
+ "x": 593.3832,
+"y": 1295.231 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0002",
+"id": "ASV0002",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_dispar",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 9.778608 
+},
+"position": {
+ "x": 524.2778,
+"y": 1141.965 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0003",
+"id": "ASV0003",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_2",
+"size": 6.331473 
+},
+"position": {
+ "x": 493.9616,
+"y": 1586.139 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0004",
+"id": "ASV0004",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_melaninogenica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 5.651896 
+},
+"position": {
+ "x": 714.9187,
+"y": 1496.284 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0005",
+"id": "ASV0005",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_histicola",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 2.413003 
+},
+"position": {
+ "x": 1951.789,
+"y":   2146.1 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0007",
+"id": "ASV0007",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 2.426553 
+},
+"position": {
+ "x": 555.4947,
+"y": 873.1306 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0008",
+"id": "ASV0008",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_atypica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.654646 
+},
+"position": {
+ "x": 827.6194,
+"y": 1195.357 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0009",
+"id": "ASV0009",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Mycoplasmatales",
+"Family": "Mycoplasmataceae",
+"Genus": "Mycoplasma",
+"Species": "Mycoplasma_pneumoniae",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 2.451264 
+},
+"position": {
+ "x": 1252.424,
+"y": 247.8936 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0010",
+"id": "ASV0010",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Carnobacteriaceae",
+"Genus": "Granulicatella",
+"Species": "Granulicatella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.558667 
+},
+"position": {
+ "x": 468.3527,
+"y": 1421.542 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0012",
+"id": "ASV0012",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_periodonticum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 1.508203 
+},
+"position": {
+ "x": 1157.763,
+"y": 1299.707 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0013",
+"id": "ASV0013",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_atypica",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 1.287583 
+},
+"position": {
+ "x": 528.0438,
+"y":  1036.51 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0014",
+"id": "ASV0014",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size":  1.13619 
+},
+"position": {
+ "x": 1059.294,
+"y": 1410.075 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0015",
+"id": "ASV0015",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Gemellaceae",
+"Genus": "Gemella",
+"Species": "Gemella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.9145717 
+},
+"position": {
+ "x": 1144.856,
+"y": 1652.995 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0017",
+"id": "ASV0017",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 1.045727 
+},
+"position": {
+ "x": 1738.928,
+"y": 1393.809 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0018",
+"id": "ASV0018",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_salivae",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.8426966 
+},
+"position": {
+ "x": 1341.992,
+"y": 1003.164 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0020",
+"id": "ASV0020",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.8909897 
+},
+"position": {
+ "x": 1442.985,
+"y": 1393.331 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0023",
+"id": "ASV0023",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Lachnoanaerobaculum",
+"Species": "Lachnoanaerobaculum_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.8443035 
+},
+"position": {
+ "x": 962.0729,
+"y": 1348.226 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0024",
+"id": "ASV0024",
+"Phylum": "Actinobacteriota",
+"Class": "Coriobacteriia",
+"Order": "Coriobacteriales",
+"Family": "Atopobiaceae",
+"Genus": "Atopobium",
+"Species": "Atopobium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.7918847 
+},
+"position": {
+ "x": 787.1138,
+"y": 963.7771 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0025",
+"id": "ASV0025",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.6102211 
+},
+"position": {
+ "x": 822.5015,
+"y": 1651.603 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0028",
+"id": "ASV0028",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.5946735 
+},
+"position": {
+ "x": 301.8061,
+"y": 1439.863 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0030",
+"id": "ASV0030",
+"Phylum": "Campilobacterota",
+"Class": "Campylobacteria",
+"Order": "Campylobacterales",
+"Family": "Campylobacteraceae",
+"Genus": "Campylobacter",
+"Species": "Campylobacter_concisus",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.6651588 
+},
+"position": {
+ "x": 622.0876,
+"y": 1095.382 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0031",
+"id": "ASV0031",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.5650984 
+},
+"position": {
+ "x": 1058.396,
+"y": 1470.409 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0033",
+"id": "ASV0033",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Peptostreptococcales-Tissierellales",
+"Family": "Peptostreptococcaceae",
+"Genus": "Peptostreptococcus",
+"Species": "Peptostreptococcus_stomatis",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.5405175 
+},
+"position": {
+ "x":  943.649,
+"y": 1594.789 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0034",
+"id": "ASV0034",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Corynebacteriales",
+"Family": "Corynebacteriaceae",
+"Genus": "Corynebacterium",
+"Species": "Corynebacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.6123926 
+},
+"position": {
+ "x": 566.7845,
+"y": 501.1886 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0036",
+"id": "ASV0036",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.4381119 
+},
+"position": {
+ "x": 1506.839,
+"y": 1742.508 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0039",
+"id": "ASV0039",
+"Phylum": "Patescibacteria",
+"Class": "Saccharimonadia",
+"Order": "Saccharimonadales",
+"Family": "Saccharimonadaceae",
+"Genus": "TM7x",
+"Species": "TM7x_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.4356365 
+},
+"position": {
+ "x": 1398.074,
+"y": 1290.852 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0043",
+"id": "ASV0043",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.3564654 
+},
+"position": {
+ "x": 1426.389,
+"y":  1970.86 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0047",
+"id": "ASV0047",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3969846 
+},
+"position": {
+ "x": 2595.708,
+"y": 679.9496 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0048",
+"id": "ASV0048",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_pneumoniae",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.4140957 
+},
+"position": {
+ "x": 1134.912,
+"y": 531.3581 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0049",
+"id": "ASV0049",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Flavobacteriaceae",
+"Genus": "Capnocytophaga",
+"Species": "Capnocytophaga_leadbetteri",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3452607 
+},
+"position": {
+ "x": 2243.849,
+"y": 1837.346 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0051",
+"id": "ASV0051",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Flavobacteriaceae",
+"Genus": "Capnocytophaga",
+"Species": "Capnocytophaga_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3003116 
+},
+"position": {
+ "x": 1435.801,
+"y": 2537.727 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0053",
+"id": "ASV0053",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.3311897 
+},
+"position": {
+ "x":  500.774,
+"y": 2250.883 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0058",
+"id": "ASV0058",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Stomatobaculum",
+"Species": "Stomatobaculum_longum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.3017448 
+},
+"position": {
+ "x": 1321.187,
+"y": 1347.709 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0059",
+"id": "ASV0059",
+"Phylum": "Patescibacteria",
+"Class": "Saccharimonadia",
+"Order": "Saccharimonadales",
+"Family": "Saccharimonadaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.4404571 
+},
+"position": {
+ "x":  1269.55,
+"y": 2360.466 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0063",
+"id": "ASV0063",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Moraxellaceae",
+"Genus": "Acinetobacter",
+"Species": "Acinetobacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.4025436 
+},
+"position": {
+ "x":  977.526,
+"y": 539.8033 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0064",
+"id": "ASV0064",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Moraxellaceae",
+"Genus": "Acinetobacter",
+"Species": "Acinetobacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.3494733 
+},
+"position": {
+ "x": 823.6573,
+"y": 622.7261 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0066",
+"id": "ASV0066",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_sinus",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2573169 
+},
+"position": {
+ "x":  872.978,
+"y": 1521.825 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0067",
+"id": "ASV0067",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Burkholderiales",
+"Family": "Neisseriaceae",
+"Genus": "Neisseria",
+"Species": "Neisseria_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2674359 
+},
+"position": {
+ "x": 1539.374,
+"y": 1866.202 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0068",
+"id": "ASV0068",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Lachnoanaerobaculum",
+"Species": "Lachnoanaerobaculum_cf.",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2555798 
+},
+"position": {
+ "x": 781.3406,
+"y": 1724.118 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0069",
+"id": "ASV0069",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Rothia",
+"Species": "Rothia_mucilaginosa",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size":   0.2799 
+},
+"position": {
+ "x": 1977.181,
+"y": 2357.459 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0076",
+"id": "ASV0076",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.2189257 
+},
+"position": {
+ "x": 2342.365,
+"y": 1387.369 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0077",
+"id": "ASV0077",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Gemellaceae",
+"Genus": "Gemella",
+"Species": "Gemella_sanguinis",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2088067 
+},
+"position": {
+ "x": 1061.424,
+"y": 1536.631 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0088",
+"id": "ASV0088",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Erysipelotrichales",
+"Family": "Erysipelotrichaceae",
+"Genus": "Solobacterium",
+"Species": "Solobacterium_moorei",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1788841 
+},
+"position": {
+ "x": 913.1451,
+"y": 1088.139 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0089",
+"id": "ASV0089",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Devosiaceae",
+"Genus": "Pelagibacterium",
+"Species": "Pelagibacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.2510631 
+},
+"position": {
+ "x": 900.7202,
+"y": 339.3215 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0091",
+"id": "ASV0091",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1734121 
+},
+"position": {
+ "x": 1594.369,
+"y": 697.5991 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0094",
+"id": "ASV0094",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1269864 
+},
+"position": {
+ "x": 2662.699,
+"y":  932.613 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0095",
+"id": "ASV0095",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1467032 
+},
+"position": {
+ "x": 1621.349,
+"y": 900.3276 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0102",
+"id": "ASV0102",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.1462255 
+},
+"position": {
+ "x": 475.4521,
+"y": 822.1148 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0103",
+"id": "ASV0103",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_parvum",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.1858328 
+},
+"position": {
+ "x": 1369.026,
+"y": 1486.187 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0108",
+"id": "ASV0108",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Chelativorans",
+"Species": "Chelativorans_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.1897414 
+},
+"position": {
+ "x": 939.2482,
+"y": 327.7485 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0109",
+"id": "ASV0109",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_micronuciformis",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1176058 
+},
+"position": {
+ "x": 2015.775,
+"y": 644.9464 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0112",
+"id": "ASV0112",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1008856 
+},
+"position": {
+ "x": 2221.634,
+"y": 428.7823 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0113",
+"id": "ASV0113",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.1072262 
+},
+"position": {
+ "x":   2099.1,
+"y": 839.8075 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0127",
+"id": "ASV0127",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.08507744 
+},
+"position": {
+ "x": 2000.362,
+"y": 1005.689 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0128",
+"id": "ASV0128",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0881609 
+},
+"position": {
+ "x": 1136.196,
+"y": 2506.236 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0134",
+"id": "ASV0134",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.09272095 
+},
+"position": {
+ "x": 2146.411,
+"y": 1954.866 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0137",
+"id": "ASV0137",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Aliihoeflea",
+"Species": "Aliihoeflea_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.1114823 
+},
+"position": {
+ "x": 1037.198,
+"y": 162.2249 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0140",
+"id": "ASV0140",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_parainfluenzae",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.09041921 
+},
+"position": {
+ "x": 1357.222,
+"y": 2167.381 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0150",
+"id": "ASV0150",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Enterobacterales",
+"Family": "Enterobacteriaceae",
+"Genus": "Escherichia-Shigella",
+"Species": "Escherichia-Shigella_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.1041862 
+},
+"position": {
+ "x": 1090.861,
+"y": 408.1473 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0154",
+"id": "ASV0154",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Johnsonella",
+"Species": "Johnsonella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05745659 
+},
+"position": {
+ "x": 1765.258,
+"y": 1154.871 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0160",
+"id": "ASV0160",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.05875946 
+},
+"position": {
+ "x": 2223.722,
+"y": 270.5034 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0171",
+"id": "ASV0171",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05719601 
+},
+"position": {
+ "x": 1867.152,
+"y": 1639.605 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0172",
+"id": "ASV0172",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Caulobacterales",
+"Family": "Hyphomonadaceae",
+"Genus": "Oceanicaulis",
+"Species": "Oceanicaulis_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+
+"size": 0.08885577 
+},
+"position": {
+ "x": 1011.446,
+"y": 326.5288 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0217",
+"id": "ASV0217",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_wadei",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.04976965 
+},
+"position": {
+ "x": 360.5734,
+"y": 2029.352 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0227",
+"id": "ASV0227",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.03912954 
+},
+"position": {
+ "x":  716.882,
+"y": 2375.115 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0232",
+"id": "ASV0232",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Oceanospirillales",
+"Family": "Halomonadaceae",
+"Genus": "Halomonas",
+"Species": "Halomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.04499246 
+},
+"position": {
+ "x": 1010.269,
+"y":   215.41 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0238",
+"id": "ASV0238",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.03422206 
+},
+"position": {
+ "x": 2428.744,
+"y": 1914.029 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0285",
+"id": "ASV0285",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02505854 
+},
+"position": {
+ "x": 839.1474,
+"y": 400.9186 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0300",
+"id": "ASV0300",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02210537 
+},
+"position": {
+ "x": 944.6739,
+"y":  2440.05 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0304",
+"id": "ASV0304",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02709971 
+},
+"position": {
+ "x": 935.2634,
+"y": 665.1598 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0323",
+"id": "ASV0323",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Lactobacillaceae",
+"Genus": "Lactobacillus",
+"Species": "Lactobacillus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.03387463 
+},
+"position": {
+ "x": 1064.488,
+"y": 477.7589 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0344",
+"id": "ASV0344",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02445054 
+},
+"position": {
+ "x": 1067.072,
+"y": 546.2793 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0378",
+"id": "ASV0378",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Staphylococcales",
+"Family": "Staphylococcaceae",
+"Genus": "Staphylococcus",
+"Species": "Staphylococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.02088936 
+},
+"position": {
+ "x":  426.252,
+"y": 555.7087 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0387",
+"id": "ASV0387",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Xanthomonadales",
+"Family": "Xanthomonadaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01832704 
+},
+"position": {
+ "x":  964.294,
+"y": 244.7349 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0401",
+"id": "ASV0401",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01420129 
+},
+"position": {
+ "x": 2515.271,
+"y": 1399.919 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0431",
+"id": "ASV0431",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Pseudomonadaceae",
+"Genus": "Pseudomonas",
+"Species": "Pseudomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01667674 
+},
+"position": {
+ "x": 637.4093,
+"y":  397.221 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0493",
+"id": "ASV0493",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.008685803 
+},
+"position": {
+ "x": 2026.383,
+"y": 155.8762 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0062",
+"id": "ASV0062",
+"Phylum": "Proteobacteria",
+"Class": "Alphaproteobacteria",
+"Order": "Rhizobiales",
+"Family": "Rhizobiaceae",
+"Genus": "Phyllobacterium",
+"Species": "Phyllobacterium_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+
+"size": 0.2187085 
+},
+"position": {
+ "x": 265.0373,
+"y": 1221.412 
+} 
+},
+
+{
+ "data": {
+ "type": true,
+"name": "ASV0152",
+"id": "ASV0152",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Actinomycetales",
+"Family": "Actinomycetaceae",
+"Genus": "Actinomyces",
+"Species": "Actinomyces_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.06614239 
+},
+"position": {
+ "x": 1686.225,
+"y": 2481.682 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0032",
+"id": "ASV0032",
+"Phylum": "Actinobacteriota",
+"Class": "Coriobacteriia",
+"Order": "Coriobacteriales",
+"Family": "Atopobiaceae",
+"Genus": "Atopobium",
+"Species": "Atopobium_parvulum",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.5022566 
+},
+"position": {
+ "x": 313.2388,
+"y": 781.8094 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0173",
+"id": "ASV0173",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Catonella",
+"Species": "Catonella_unidentified",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.05476399 
+},
+"position": {
+ "x": 1155.008,
+"y": 1420.152 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0179",
+"id": "ASV0179",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.0516371 
+},
+"position": {
+ "x": 1375.789,
+"y": 776.2714 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0368",
+"id": "ASV0368",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.01658988 
+},
+"position": {
+ "x":  219.432,
+"y": 1060.944 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0239",
+"id": "ASV0239",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.03587237 
+},
+"position": {
+ "x": 1875.441,
+"y": 1018.426 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0258",
+"id": "ASV0258",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Clostridia UCG-014",
+"Family": "unidentified",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "RandomWalks_3",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.03721867 
+},
+"position": {
+ "x": 1645.985,
+"y": 1365.733 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0125",
+"id": "ASV0125",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Actinomycetales",
+"Family": "Actinomycetaceae",
+"Genus": "Actinomyces",
+"Species": "Actinomyces_lingnae",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.107704 
+},
+"position": {
+ "x": 1395.499,
+"y": 1590.168 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0041",
+"id": "ASV0041",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_rogosae",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.3307554 
+},
+"position": {
+ "x": 912.0975,
+"y":  2018.41 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0037",
+"id": "ASV0037",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_pasteri",
+"Betweenness": "Betweenness_3",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_3",
+"Greedy": "Greedy_3",
+"Leading_eigen": "Leading_eigen_4",
+"size": 0.4577853 
+},
+"position": {
+ "x":  40.2648,
+"y": 1396.838 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0153",
+"id": "ASV0153",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_asaccharolyticum",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.07009443 
+},
+"position": {
+ "x":  1153.97,
+"y": 1814.696 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0070",
+"id": "ASV0070",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Aerococcaceae",
+"Genus": "Abiotrophia",
+"Species": "Abiotrophia_defectiva",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.2341258 
+},
+"position": {
+ "x":  2445.88,
+"y": 741.6306 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0348",
+"id": "ASV0348",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Lactobacillales",
+"Family": "Streptococcaceae",
+"Genus": "Streptococcus",
+"Species": "Streptococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.01168241 
+},
+"position": {
+ "x": 521.2369,
+"y": 179.0236 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0606",
+"id": "ASV0606",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pseudomonadales",
+"Family": "Pseudomonadaceae",
+"Genus": "Pseudomonas",
+"Species": "Pseudomonas_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.008208084 
+},
+"position": {
+ "x": 568.3217,
+"y":  369.613 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0130",
+"id": "ASV0130",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Tannerellaceae",
+"Genus": "Tannerella",
+"Species": "Tannerella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.08690146 
+},
+"position": {
+ "x": 2396.378,
+"y": 355.7545 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0376",
+"id": "ASV0376",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01250756 
+},
+"position": {
+ "x": 2492.296,
+"y": 930.3246 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0157",
+"id": "ASV0157",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.06414466 
+},
+"position": {
+ "x": 2117.505,
+"y": 2181.042 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0500",
+"id": "ASV0500",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Muribaculaceae",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.009206951 
+},
+"position": {
+ "x": 800.4951,
+"y": 441.1489 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0634",
+"id": "ASV0634",
+"Phylum": "Firmicutes",
+"Class": "Bacilli",
+"Order": "Erysipelotrichales",
+"Family": "Erysipelotrichaceae",
+"Genus": "Turicibacter",
+"Species": "Turicibacter_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.006297207 
+},
+"position": {
+ "x": 461.4558,
+"y": 461.8293 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0649",
+"id": "ASV0649",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Xanthomonadales",
+"Family": "Xanthomonadaceae",
+"Genus": "Stenotrophomonas",
+"Species": "Stenotrophomonas_maltophilia",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.00794751 
+},
+"position": {
+ "x": 1041.681,
+"y": 623.7041 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0078",
+"id": "ASV0078",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_nanceiensis",
+"Betweenness": "Betweenness_2",
+"RandomWalks": "RandomWalks_2",
+"Louvain": "Louvain_2",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_2",
+"size": 0.2212274 
+},
+"position": {
+ "x": 587.8124,
+"y":  1756.68 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0118",
+"id": "ASV0118",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_periodonticum",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.1145657 
+},
+"position": {
+ "x": 2378.252,
+"y": 1118.652 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0248",
+"id": "ASV0248",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_parvula",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0305306 
+},
+"position": {
+ "x": 2377.216,
+"y": 1731.614 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0584",
+"id": "ASV0584",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Nesterenkonia",
+"Species": "Nesterenkonia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.007209217 
+},
+"position": {
+ "x": 1209.488,
+"y": 180.5313 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0760",
+"id": "ASV0760",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Flavobacteriales",
+"Family": "Weeksellaceae",
+"Genus": "Cloacibacterium",
+"Species": "Cloacibacterium_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.005385198 
+},
+"position": {
+ "x": 1438.633,
+"y": 179.0442 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0554",
+"id": "ASV0554",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.006080062 
+},
+"position": {
+ "x": 2678.267,
+"y": 1237.158 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0838",
+"id": "ASV0838",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Micrococcales",
+"Family": "Micrococcaceae",
+"Genus": "Nesterenkonia",
+"Species": "Nesterenkonia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.003691466 
+},
+"position": {
+ "x": 1366.841,
+"y":   115.55 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0133",
+"id": "ASV0133",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Megasphaera",
+"Species": "Megasphaera_micronuciformis",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.08129912 
+},
+"position": {
+ "x": 2275.826,
+"y": 738.8062 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0169",
+"id": "ASV0169",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Veillonellaceae",
+"Genus": "Veillonella",
+"Species": "Veillonella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.04516618 
+},
+"position": {
+ "x": 2552.483,
+"y":  1107.01 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0131",
+"id": "ASV0131",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Alloprevotella",
+"Species": "Alloprevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.08542487 
+},
+"position": {
+ "x": 2640.532,
+"y": 1524.694 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0189",
+"id": "ASV0189",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Pasteurellales",
+"Family": "Pasteurellaceae",
+"Genus": "Haemophilus",
+"Species": "Haemophilus_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_2",
+"Greedy": "uncluster",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.05654458 
+},
+"position": {
+ "x": 1872.985,
+"y": 1972.184 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0273",
+"id": "ASV0273",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Lachnospirales",
+"Family": "Lachnospiraceae",
+"Genus": "Oribacterium",
+"Species": "Oribacterium_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_4",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.02670884 
+},
+"position": {
+ "x": 2081.171,
+"y": 1315.425 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0308",
+"id": "ASV0308",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Porphyromonadaceae",
+"Genus": "Porphyromonas",
+"Species": "Porphyromonas_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02058535 
+},
+"position": {
+ "x": 2278.474,
+"y": 2129.319 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0346",
+"id": "ASV0346",
+"Phylum": "Firmicutes",
+"Class": "Negativicutes",
+"Order": "Veillonellales-Selenomonadales",
+"Family": "Selenomonadaceae",
+"Genus": "Selenomonas",
+"Species": "Selenomonas_unidentified",
+"Betweenness": "Betweenness_4",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_4",
+"Greedy": "Greedy_2",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.01567787 
+},
+"position": {
+ "x": 2117.479,
+"y": 1543.895 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0607",
+"id": "ASV0607",
+"Phylum": "Actinobacteriota",
+"Class": "Actinobacteria",
+"Order": "Pseudonocardiales",
+"Family": "Pseudonocardiaceae",
+"Genus": "Saccharopolyspora",
+"Species": "Saccharopolyspora_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.008077797 
+},
+"position": {
+ "x":  1295.49,
+"y":  60.2895 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0334",
+"id": "ASV0334",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Leptotrichiaceae",
+"Genus": "Leptotrichia",
+"Species": "Leptotrichia_wadei",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.01850076 
+},
+"position": {
+ "x": 1503.049,
+"y": 2413.633 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0482",
+"id": "ASV0482",
+"Phylum": "Fusobacteriota",
+"Class": "Fusobacteriia",
+"Order": "Fusobacteriales",
+"Family": "Fusobacteriaceae",
+"Genus": "Fusobacterium",
+"Species": "Fusobacterium_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.009901816 
+},
+"position": {
+ "x": 856.0605,
+"y": 2278.086 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0267",
+"id": "ASV0267",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Peptostreptococcales-Tissierellales",
+"Family": "Parvimonas",
+"Genus": "unidentified",
+"Species": "unidentified_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.02657856 
+},
+"position": {
+ "x": 1913.676,
+"y": -6.74301 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0674",
+"id": "ASV0674",
+"Phylum": "Firmicutes",
+"Class": "Clostridia",
+"Order": "Oscillospirales",
+"Family": "Ruminococcaceae",
+"Genus": "Ruminococcus",
+"Species": "Ruminococcus_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "RandomWalks_1",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_1",
+"size": 0.007860652 
+},
+"position": {
+ "x": 400.9368,
+"y": 367.2065 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV1014",
+"id": "ASV1014",
+"Phylum": "Proteobacteria",
+"Class": "Gammaproteobacteria",
+"Order": "Enterobacterales",
+"Family": "Yersiniaceae",
+"Genus": "Serratia",
+"Species": "Serratia_unidentified",
+"Betweenness": "Betweenness_1",
+"RandomWalks": "uncluster",
+"Louvain": "Louvain_1",
+"Greedy": "Greedy_1",
+"Leading_eigen": "Leading_eigen_3",
+"size": 0.00308346 
+},
+"position": {
+ "x": 1645.668,
+"y": 192.4142 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0413",
+"id": "ASV0413",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Prevotellaceae",
+"Genus": "Prevotella",
+"Species": "Prevotella_unidentified",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.0124207 
+},
+"position": {
+ "x": 2566.816,
+"y": 1704.956 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0709",
+"id": "ASV0709",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Bacteroidaceae",
+"Genus": "Bacteroides",
+"Species": "Bacteroides_coprocola",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.003865182 
+},
+"position": {
+ "x": 1777.226,
+"y": 2173.362 
+} 
+},
+{
+ "data": {
+ "type": true,
+"name": "ASV0736",
+"id": "ASV0736",
+"Phylum": "Bacteroidota",
+"Class": "Bacteroidia",
+"Order": "Bacteroidales",
+"Family": "Bacteroidaceae",
+"Genus": "Bacteroides",
+"Species": "Bacteroides_plebeius",
+"Betweenness": "uncluster",
+"RandomWalks": "uncluster",
+"Louvain": "uncluster",
+"Greedy": "uncluster",
+"Leading_eigen": "uncluster",
+"size": 0.003865182 
+},
+"position": {
+ "x": 1650.455,
+"y": 2330.791 
+} 
+} 
+],
+"edges": [
+ {
+ "data": {
+ "source": "ASV0001",
+"target": "ASV0010",
+"weight": 0.4076318,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0001",
+"target": "ASV0088",
+"weight": 0.4502701,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0001",
+"target": "ASV0062",
+"weight": 0.5921429,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0007",
+"weight": 0.4700951,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0008",
+"weight": 0.4093701,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0010",
+"weight": 0.6491746,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0030",
+"weight": 0.4578207,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0102",
+"weight": 0.5069488,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0002",
+"target": "ASV0062",
+"weight": 0.4420802,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0003",
+"target": "ASV0010",
+"weight": 0.5170024,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0003",
+"target": "ASV0066",
+"weight": 0.4458436,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0004",
+"target": "ASV0030",
+"weight": 0.4723171,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0004",
+"target": "ASV0033",
+"weight": 0.429132,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0005",
+"target": "ASV0152",
+"weight": 0.416442,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0007",
+"target": "ASV0008",
+"weight": 0.4070207,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0007",
+"target": "ASV0024",
+"weight": 0.4829057,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0007",
+"target": "ASV0063",
+"weight": 0.4213606,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0007",
+"target": "ASV0032",
+"weight": 0.4051176,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0008",
+"target": "ASV0013",
+"weight": 0.6454908,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0008",
+"target": "ASV0018",
+"weight": 0.4289452,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0008",
+"target": "ASV0023",
+"weight": 0.468933,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0008",
+"target": "ASV0030",
+"weight": 0.5701069,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0008",
+"target": "ASV0058",
+"weight": 0.4381534,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0009",
+"target": "ASV0089",
+"weight": 0.4626763,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0009",
+"target": "ASV0108",
+"weight": 0.4421169,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0009",
+"target": "ASV0137",
+"weight": 0.4467944,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0009",
+"target": "ASV0172",
+"weight": 0.5003682,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0010",
+"target": "ASV0066",
+"weight": 0.4170196,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0014",
+"weight": 0.5647847,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0015",
+"weight": 0.4013061,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0020",
+"weight": 0.4171498,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0023",
+"weight": 0.6022076,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0031",
+"weight": 0.4614313,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0039",
+"weight": 0.4793466,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0066",
+"weight": 0.4514703,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0077",
+"weight": 0.5011032,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0088",
+"weight": 0.5068182,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0173",
+"weight": 0.4388612,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0012",
+"target": "ASV0179",
+"weight": 0.4071233,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0013",
+"target": "ASV0030",
+"weight": 0.4534498,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0013",
+"target": "ASV0368",
+"weight": 0.4381917,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0015",
+"weight": 0.4286479,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0023",
+"weight": 0.6340555,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0025",
+"weight": 0.4338322,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0031",
+"weight": 0.4644791,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0066",
+"weight": 0.4597056,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0077",
+"weight": 0.5102961,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0014",
+"target": "ASV0088",
+"weight": 0.4714726,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0015",
+"target": "ASV0067",
+"weight": 0.4563857,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0015",
+"target": "ASV0077",
+"weight": 0.4522084,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0015",
+"target": "ASV0173",
+"weight": 0.4413619,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0017",
+"target": "ASV0058",
+"weight": 0.4088899,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0017",
+"target": "ASV0154",
+"weight": 0.4390091,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0017",
+"target": "ASV0239",
+"weight": 0.5181378,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0018",
+"target": "ASV0095",
+"weight": 0.4136657,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0020",
+"target": "ASV0039",
+"weight": 0.6448463,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0020",
+"target": "ASV0058",
+"weight": 0.4360648,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0020",
+"target": "ASV0103",
+"weight": 0.5336695,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0020",
+"target": "ASV0258",
+"weight": 0.4378283,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0023",
+"target": "ASV0058",
+"weight": 0.5389577,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0023",
+"target": "ASV0066",
+"weight": 0.4298834,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0023",
+"target": "ASV0088",
+"weight": 0.5505777,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0023",
+"target": "ASV0173",
+"weight": 0.4000434,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0023",
+"target": "ASV0125",
+"weight": 0.4030371,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0024",
+"target": "ASV0088",
+"weight": 0.4230799,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0025",
+"target": "ASV0031",
+"weight": 0.5229345,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0025",
+"target": "ASV0066",
+"weight": 0.4806809,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0025",
+"target": "ASV0077",
+"weight": 0.4094142,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0025",
+"target": "ASV0041",
+"weight": 0.420507,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0028",
+"target": "ASV0030",
+"weight": 0.4434118,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0028",
+"target": "ASV0037",
+"weight": 0.4725181,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0030",
+"target": "ASV0064",
+"weight": 0.4058701,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0030",
+"target": "ASV0088",
+"weight": 0.4406656,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0033",
+"weight": 0.4412246,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0066",
+"weight": 0.4538177,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0077",
+"weight": 0.5372695,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0088",
+"weight": 0.4573473,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0103",
+"weight": 0.4751499,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0031",
+"target": "ASV0173",
+"weight": 0.4106827,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0033",
+"target": "ASV0103",
+"weight": 0.4150102,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0034",
+"target": "ASV0048",
+"weight": 0.4133073,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0034",
+"target": "ASV0063",
+"weight": 0.4117302,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0034",
+"target": "ASV0344",
+"weight": 0.4328653,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0036",
+"target": "ASV0058",
+"weight": 0.4109088,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0039",
+"target": "ASV0088",
+"weight": 0.4174593,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0039",
+"target": "ASV0103",
+"weight": 0.5057066,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0039",
+"target": "ASV0154",
+"weight": 0.4077981,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0039",
+"target": "ASV0173",
+"weight": 0.4034999,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0039",
+"target": "ASV0258",
+"weight": 0.4247406,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0043",
+"target": "ASV0153",
+"weight": 0.5015311,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0047",
+"target": "ASV0070",
+"weight": 0.4177944,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0063",
+"weight": 0.502325,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0064",
+"weight": 0.4667217,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0089",
+"weight": 0.4182885,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0108",
+"weight": 0.4544506,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0172",
+"weight": 0.4028806,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0285",
+"weight": 0.5189744,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0323",
+"weight": 0.4040955,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0431",
+"weight": 0.4498763,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0348",
+"weight": 0.4793735,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0048",
+"target": "ASV0606",
+"weight": 0.4599149,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0049",
+"target": "ASV0130",
+"weight": 0.4543146,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0051",
+"target": "ASV0376",
+"weight": 0.4082266,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0053",
+"target": "ASV0157",
+"weight": 0.4540572,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0058",
+"target": "ASV0153",
+"weight": 0.4569428,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0059",
+"target": "ASV0217",
+"weight": 0.4080024,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0064",
+"weight": 0.7134553,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0088",
+"weight": 0.4408186,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0089",
+"weight": 0.6584595,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0108",
+"weight": 0.6243184,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0150",
+"weight": 0.534355,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0172",
+"weight": 0.5920311,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0232",
+"weight": 0.4807427,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0285",
+"weight": 0.4971801,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0304",
+"weight": 0.5518246,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0323",
+"weight": 0.4888564,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0344",
+"weight": 0.4862774,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0387",
+"weight": 0.5033265,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0431",
+"weight": 0.4625164,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0606",
+"weight": 0.4377126,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0500",
+"weight":  0.52967,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0634",
+"weight": 0.4038928,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0063",
+"target": "ASV0649",
+"weight": 0.4343634,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0088",
+"weight": 0.4150338,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0089",
+"weight": 0.6580598,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0102",
+"weight": 0.4078532,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0108",
+"weight": 0.5939226,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0150",
+"weight": 0.5337945,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0172",
+"weight": 0.5211209,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0285",
+"weight": 0.4700509,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0304",
+"weight": 0.476355,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0323",
+"weight": 0.4123783,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0344",
+"weight": 0.4349425,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0500",
+"weight": 0.4593461,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0064",
+"target": "ASV0649",
+"weight": 0.4404782,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0066",
+"target": "ASV0068",
+"weight": 0.4747597,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0066",
+"target": "ASV0077",
+"weight": 0.5648637,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0066",
+"target": "ASV0088",
+"weight": 0.4280211,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0066",
+"target": "ASV0173",
+"weight": 0.4213219,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0066",
+"target": "ASV0078",
+"weight": 0.4420516,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0067",
+"target": "ASV0140",
+"weight": 0.4103755,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0068",
+"target": "ASV0077",
+"weight": 0.4083115,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0069",
+"target": "ASV0118",
+"weight": 0.4564008,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0076",
+"target": "ASV0248",
+"weight": 0.4013461,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0077",
+"target": "ASV0088",
+"weight": 0.4191744,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0077",
+"target": "ASV0173",
+"weight": 0.5903934,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0077",
+"target": "ASV0153",
+"weight": 0.4421059,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0088",
+"target": "ASV0304",
+"weight": 0.4074294,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0108",
+"weight": 0.7758761,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0137",
+"weight": 0.5105712,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0150",
+"weight": 0.6147532,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0172",
+"weight": 0.7347594,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0232",
+"weight": 0.5666945,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0285",
+"weight": 0.4262154,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0304",
+"weight": 0.449576,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0323",
+"weight": 0.4347409,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0344",
+"weight": 0.4215997,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0387",
+"weight": 0.5400619,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0500",
+"weight": 0.4164211,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0649",
+"weight": 0.4256515,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0584",
+"weight": 0.4090644,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0089",
+"target": "ASV0760",
+"weight": 0.4102873,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0091",
+"target": "ASV0179",
+"weight": 0.4047874,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0094",
+"target": "ASV0554",
+"weight": 0.4036259,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0095",
+"target": "ASV0127",
+"weight": 0.4705734,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0102",
+"target": "ASV0368",
+"weight": 0.4625062,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0103",
+"target": "ASV0258",
+"weight": 0.4504952,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0137",
+"weight": 0.4829362,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0150",
+"weight": 0.5818471,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0172",
+"weight": 0.721421,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0232",
+"weight": 0.567511,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0285",
+"weight": 0.416554,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0304",
+"weight": 0.4606147,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0323",
+"weight": 0.437079,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0387",
+"weight": 0.5907816,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0500",
+"weight": 0.4117887,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0649",
+"weight": 0.4529275,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0584",
+"weight": 0.4111178,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0108",
+"target": "ASV0838",
+"weight": 0.4098144,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0109",
+"target": "ASV0113",
+"weight": 0.446285,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0109",
+"target": "ASV0127",
+"weight": 0.4272162,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0109",
+"target": "ASV0133",
+"weight": 0.4068501,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0112",
+"target": "ASV0169",
+"weight": 0.415792,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0113",
+"target": "ASV0127",
+"weight": 0.4151298,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0127",
+"target": "ASV0154",
+"weight": 0.4271148,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0127",
+"target": "ASV0239",
+"weight": 0.4197383,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0128",
+"target": "ASV0131",
+"weight": 0.4313459,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0134",
+"target": "ASV0160",
+"weight": 0.4244747,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0137",
+"target": "ASV0150",
+"weight": 0.5960526,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0137",
+"target": "ASV0172",
+"weight": 0.6606319,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0137",
+"target": "ASV0232",
+"weight": 0.7152178,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0137",
+"target": "ASV0387",
+"weight": 0.5119077,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0137",
+"target": "ASV0584",
+"weight": 0.4041957,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0140",
+"target": "ASV0189",
+"weight": 0.4251012,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0150",
+"target": "ASV0172",
+"weight": 0.6341136,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0150",
+"target": "ASV0232",
+"weight": 0.6009634,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0150",
+"target": "ASV0387",
+"weight": 0.4827555,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0154",
+"target": "ASV0258",
+"weight": 0.4020372,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0154",
+"target": "ASV0273",
+"weight": 0.4033392,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0160",
+"target": "ASV0308",
+"weight": 0.4378426,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0171",
+"target": "ASV0258",
+"weight": 0.4736768,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0171",
+"target": "ASV0346",
+"weight": 0.4021432,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0172",
+"target": "ASV0232",
+"weight": 0.6489369,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0172",
+"target": "ASV0387",
+"weight": 0.5849729,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0172",
+"target": "ASV0179",
+"weight": 0.4207803,
+"interaction": "neg" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0172",
+"target": "ASV0584",
+"weight": 0.4236438,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0172",
+"target": "ASV0607",
+"weight": 0.4040255,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0217",
+"target": "ASV0334",
+"weight": 0.4062836,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0227",
+"target": "ASV0300",
+"weight": 0.4866779,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0227",
+"target": "ASV0482",
+"weight": 0.5493798,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0232",
+"target": "ASV0387",
+"weight": 0.587361,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0232",
+"target": "ASV0584",
+"weight": 0.4549096,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0232",
+"target": "ASV0607",
+"weight": 0.4153932,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0238",
+"target": "ASV0267",
+"weight": 0.4587496,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0285",
+"target": "ASV0304",
+"weight": 0.4004583,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0300",
+"target": "ASV0482",
+"weight": 0.4255759,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0304",
+"target": "ASV0323",
+"weight": 0.5027671,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0304",
+"target": "ASV0344",
+"weight": 0.4920132,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0304",
+"target": "ASV0431",
+"weight": 0.4046659,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0304",
+"target": "ASV0500",
+"weight": 0.4193879,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0323",
+"target": "ASV0344",
+"weight": 0.4948401,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0323",
+"target": "ASV0378",
+"weight": 0.4252652,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0323",
+"target": "ASV0606",
+"weight": 0.4152379,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0323",
+"target": "ASV0674",
+"weight": 0.4133265,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0344",
+"target": "ASV0378",
+"weight": 0.4256794,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0378",
+"target": "ASV1014",
+"weight": 0.4089641,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0387",
+"target": "ASV0584",
+"weight": 0.4527113,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0401",
+"target": "ASV0413",
+"weight": 0.4178977,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0431",
+"target": "ASV0649",
+"weight": 0.4702366,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0493",
+"target": "ASV0709",
+"weight": 0.4098467,
+"interaction": "pos" 
+} 
+},
+{
+ "data": {
+ "source": "ASV0493",
+"target": "ASV0736",
+"weight": 0.4499655,
+"interaction": "pos" 
+} 
+} 
+] 
+} 
+}
